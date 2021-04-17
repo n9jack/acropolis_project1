@@ -2,6 +2,6 @@
 #2 edit .env file  according your database host name and password e.g                  
                   DB_USERNAME=root
                   DB_PASSWORD=
-#Admin dashboard Login info  
+#3 Admin dashboard Login info  
     Email : n9faran@gmail.com
     pass  : 123456
